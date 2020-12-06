@@ -8,7 +8,7 @@ public class AddName {
 	}
 
 	public static String PrintZay() {
-		return "ZayBoHein";
+		return "ZayBoHein Testing";
 
 	}
 
